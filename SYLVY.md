@@ -11,6 +11,14 @@
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
 - 🔭 &nbsp; I’m currently open for: An Intern or a new job opportunity.
 
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  	<a href="mailto:silvia.cordova@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/silviacordova/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/Silvycr"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://medium.com/@6988"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"/></a>
+</p>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
