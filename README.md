@@ -6,7 +6,7 @@
 <hr/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 📚 &nbsp; I'm a Full Stack Developer student at Holberton School.
+- 📚 &nbsp; I'm a Full Stack Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning about Database Administrator and Machine Learning stuff.
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
@@ -72,3 +72,4 @@
   &emsp;
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+</html>
