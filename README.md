@@ -10,7 +10,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning about Database Administrator and Machine Learning stuff.
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
-- 🔭 &nbsp; I’m currently open for: An Intern or a new job opportunity.
+- 🔭 &nbsp; I’m currently open for: An Intern or join new projects.
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
